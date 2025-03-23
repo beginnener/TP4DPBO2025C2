@@ -37,5 +37,5 @@ Selain itu, terdapat pula kelas Mahasiswa yang merupakan kelas untuk objek mahas
 
 ## Sreenrecord output
 <p align="left">
-    <img src="screenshot/TP4_run_23_03_2025.mp4" width=500>
+    <video src="screenshot/TP4_run_23_03_2025.mp4" controls width=500></video>
 </p>
