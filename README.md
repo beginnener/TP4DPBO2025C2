@@ -1,4 +1,4 @@
-_saya Natasha Adinda Cantika dengan NIM 2312120 mengerjakan TP3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin_
+_saya Natasha Adinda Cantika dengan NIM 2312120 mengerjakan TP4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin_
 
 ## Penjelasan Program
 Program ini merupakan program CRUD sederhana dengan java swing GUI dan memanfaatkan fitur UI form untuk menciptakan interface interaktif untuk user. Struktur program ini terdiri dari satu kelas utama, yaitu Menu, yang merupakan subclass dari JFrame (kelas bawaan Java untuk membuat jendela GUI).
@@ -33,9 +33,9 @@ Selain itu, terdapat pula kelas Mahasiswa yang merupakan kelas untuk objek mahas
 2. Pengguna dapat menambahkan data baru dengan mengisi NIM, Nama, Jenis Kelamin, dan memilih Status, lalu menekan tombol Add.
 3. Pengguna dapat mengedit data dengan mengklik salah satu baris tabel, mengubah nilai pada form, lalu menekan tombol Update.
 4. Pengguna dapat menghapus data dengan menekan tombol Delete setelah memilih salah satu baris.
-5.   Tombol Cancel digunakan untuk mengosongkan form input tanpa melakukan perubahan data.
+5. Tombol Cancel digunakan untuk mengosongkan form input tanpa melakukan perubahan data.
 
 ## Sreenrecord output
 <p align="left">
-    <img src="screenshot\TP4_run_23_03_2025" width=500>
+    <img src="screenshot/TP4_run_23_03_2025.mp4" width=500>
 </p>
